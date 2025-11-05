@@ -5,7 +5,7 @@ Transformo ideias em interfaces que encantam e códigos que funcionam. om uma me
 ---
 
 ## 🛠️ Tecnologias:
-<img loading="logo html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="auto" height="40"/> <img loading="logo html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="auto" height="40"/>
+<img loading="logo html" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" width="auto" height="40"/> <img loading="logo html" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40"/>
   ### Em breve:
   <img loading="logo JavaScript" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="auto" height="40"/> <img loading="logo React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="auto" height="40"/> <img loading="logo Python" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="auto" height="40"/>
 
